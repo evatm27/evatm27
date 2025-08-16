@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi, I'm Tiyasa!
+
 🎓 Final-year B.Tech CSE student  <br>💻 Interested in Web Development & Software Engineering  <br>🌱 Currently learning: Full-stack development & improving problem-solving skills  <br>🎯 Goal: Build impactful projects and grow into a skilled software engineer 
 
 
